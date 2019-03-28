@@ -63,4 +63,3 @@ if isMainModule:
     assert is_valid("123451") == true
     assert is_valid("122451") == false
     assert is_valid("128451") == false
-    echo is_valid("426710845")
